@@ -1,0 +1,3 @@
+## Project: University Examination Management System
+
+This project aims to create a system for managing university examinations. The system will keep track of exams, students, and their scores. Students are required to take a certain number of exams, each with a unique number, course name, date, and written score. Midterm exams also include an oral score, while final exams can have additional points for a project. If a student fails the midterm exam, they can retake it during the final exam session; otherwise, their midterm score is preserved. Students wishing to improve their scores can take a quiz consisting of multiple-choice questions.
